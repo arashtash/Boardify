@@ -1,0 +1,106 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #007bff;
+    margin-bottom: 20px;
+  }
+  
+  h4 {
+    padding-left: 5px;
+    color: #0056b3;
+    margin-bottom: 10px;
+  }
+  
+  .workspace {
+    background-color: #eee;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  
+  .workspace h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .workspace-members {
+    margin-top: 10px;
+    font-family:'Times New Roman', Times, serif;
+  }
+  
+  .workspace-member {
+    display: block;
+    
+  }
+  
+  
+  button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 12px;
+    font-size: 14px;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+  
+  input[type="text"] {
+    padding: 8px;
+    font-size: 14px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+  }
+  
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  button:active {
+    background-color: #003580;
+  }
+  
+
+  .remove-button {
+    background-color: #f44336;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    font-size: 11px;
+    border-radius: 4px;
+    margin-left: 5px;
+    cursor: pointer;
+  }
+
+  .remove-button:hover {
+    background-color: #ff8724;
+  }
+
+  .remove-button:active {
+    background-color: #e8791e;
+  }
+
+  .add-board {
+    padding-top: 10px;
+  }
+
+  .boards {
+    margin-bottom: 10px;
+  }
+
+  .tasks {
+    background-color: #ffffff;
+    margin-left: 40px;
+  }
+
+  .search button{
+    font-size: 500px;
+  }
