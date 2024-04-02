@@ -457,7 +457,7 @@ export default function Workspace() {
     return (
         <>
             <Button onClick={LogoutButton}>Logout</Button>
-            <h1>Group21's Trello</h1>
+            <h1>Boardify</h1>
             <h4>Welcome User #{localStorage.getItem("userID")}</h4>
             <h4>Please note some forms appear under the page. You may need to scroll down if there are many workspaces, boards and tasks. Also tasks' status can only be changed step by step as described in the lab.</h4>
             <h2>Your Workspaces:</h2>
