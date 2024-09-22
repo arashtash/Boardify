@@ -80,7 +80,7 @@ This app is inspired by Trello. It was developed in collaboration with two teamm
 
 # MIT License
 
-Copyright (c) 2024 arashtash - Arash Tashakori
+Copyright (c) 2024 arashtash - Arash Tashakori 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
