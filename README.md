@@ -72,6 +72,9 @@ Ensure that the React application is configured to proxy requests to the Spring 
 # Author
 Arash Tashakori
 
+
+[Website and Contact information](https://arashtash.github.io/)
+
 # Acknowledgement
 This app is inspired by Trello. It was developed in collaboration with two teammates as the project for our CSCI3130 Software Engineering course at Dalhousie University. Despite the entire process of development being done by us, the idea and expectations of this project was provided by the course instructor, Dr. Tushar Sharma
 
