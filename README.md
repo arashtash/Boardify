@@ -1,8 +1,9 @@
 # Boardify
-Initially named after Trello - This app is a collaborative to-do list sharing application.
+Initially named after Trello - Boardify is a collaborative to-do list sharing application.
 
 # Important Note
-The Database for this web app is hosted on Dalhousie University's server and is only accessible to Dalhousie students and staff who are connected to Dal's wifi or use Dalhousie's VPN with a valid account. However if you are not a Dal student or stuff you will have to create the database youself according to the provided Entity Relationship Diagram (ERD). More information on this is provided in the "How to run" section.
+The Database for this web app is hosted on Dalhousie University's server and is only accessible to Dalhousie students and staff who are connected to Dal's wifi or use Dalhousie's VPN with a valid account. However if you are not a Dal student or staff you will have to create the database and replace the information in Trello/src/main/java/com0
+/trello/TrelloBackendApplication.java. More information on this is provided in the "How to run" section.
 
 # Features:
 1- The app was developed using React.js (Front-end), Spring Boot (Back-end) and SQL.
